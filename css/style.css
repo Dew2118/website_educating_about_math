@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h2, h1 {
+  font-weight: bold;
+}
+
+iframe {
+  display: block;
+  margin: 20px auto;
+}
+
+#superscript {
+  font-size: smaller;
+  vertical-align: super;
+}
+#topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+#topbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#topbar a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+/* Add styles to the sections */
+section {
+    padding: 20px;
+}
