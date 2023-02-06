@@ -45,3 +45,7 @@ img {
   height: auto;
   width: auto;
 }
+
+p {
+  text-size-adjust: 40;
+}
