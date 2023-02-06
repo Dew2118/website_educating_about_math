@@ -40,3 +40,8 @@ iframe {
 section {
     padding: 20px;
 }
+img {
+  align-items: center;
+  height: auto;
+  width: auto;
+}
