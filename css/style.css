@@ -42,8 +42,8 @@ section {
 }
 img {
   align-items: center;
-  height: auto;
-  width: auto;
+  height: 400;
+  width: 600;
 }
 
 p {
