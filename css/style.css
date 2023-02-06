@@ -42,10 +42,10 @@ section {
 }
 img {
   align-items: center;
-  height: 100;
-  width: 100;
+  height: 300x;
+  width: 200px;
 }
 
 p {
-  text-size-adjust: 100;
+  text-size-adjust: 100px;
 }
