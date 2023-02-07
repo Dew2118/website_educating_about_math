@@ -53,7 +53,7 @@ img {
   height: 700px;
 }
 
-img:hover,img:focus {height: 110%;
+img:hover,img:focus {height:105%;
 }
 p {
   font-size: 60px;
