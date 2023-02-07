@@ -51,6 +51,7 @@ section {
 img {
   align-items: center;
   height: 700px;
+  width: 500px;
 }
 
 img:hover,img:focus {height: 110%;
