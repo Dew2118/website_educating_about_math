@@ -1,4 +1,5 @@
 const images = document.getElementsByTagName('img');
+alert(images)
 for (const image of images) {
   image.addEventListener('mouseover', () => {
     alert("MOUSEOVER!")
