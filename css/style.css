@@ -32,6 +32,7 @@ iframe {
     color: #fff;
     text-decoration: none;
     padding: 10px;
+    align-items: center;
 }
 
 #topbar a:hover {
