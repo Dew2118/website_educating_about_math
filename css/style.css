@@ -18,7 +18,7 @@ iframe {
 }
 #topbar {
     position: fixed;
-   top: 0px;
+    top: 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,11 +43,13 @@ iframe {
 section {
     padding: 20px;
 }
+
 img {
   align-items: center;
   height: 700px;
 }
-img:hover,img:focus {height: 200%
+
+img:hover,img:focus {height: 150%
 }
 p {
   font-size: 60px;
