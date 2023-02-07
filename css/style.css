@@ -7,6 +7,9 @@ h2, h1 {
   font-weight: bold;
 }
 
+#title {
+  font-size: 80px;
+}
 iframe {
   display: block;
   margin: 20px auto;
@@ -50,7 +53,7 @@ img {
   height: 700px;
 }
 
-img:hover,img:focus {height: 150%
+img:hover,img:focus {height: 125%;
 }
 p {
   font-size: 60px;
